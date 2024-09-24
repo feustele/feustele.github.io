@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyOlympicMedalistTestPhase1
+comment0.text=\n\ The\ test\ class\ MyOlympicMedalistTestPhase1\n\n\ @author\ \ Ana\ Posada\n\ @version\ 1.0.0\ -\ November\ 2021\n
+comment1.params=
+comment1.target=void\ testConstructorMedalist()
+comment1.text=\n\ Test\ OlympicMedalist\ constructor\n
+comment2.params=
+comment2.target=void\ testConstructorOlympicCountryMedals()
+comment2.text=\n\ Test\ OlympicCountryMedals\ constructor\n
+numComments=3
